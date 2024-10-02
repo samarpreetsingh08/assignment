@@ -1,0 +1,313 @@
+.text {
+    background-color: skyblue;
+    color: white;
+    padding: 30px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-flex;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 00px;
+    overflow: hidden;
+    background-color: skyblue;
+    width: 1244px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  } 
+  
+  li a:hover {
+    background-color: rosybrown;
+  }
+  .li {
+    margin-left: 500px; 
+  }
+  .li1 {
+    margin-left: 80px;
+  }
+  .li2 {
+    margin-left: 80px;
+  }
+  .li3 {
+    margin-left: 80px ;
+  }
+  .hy {
+    margin-left: 60px;
+    margin-top: 10px;
+  }
+  .para {
+    background-color: skyblue;
+    margin-top: 00px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 30px;
+  }
+  h1 {
+    color: white;
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .color {
+    color: darkblue;
+    margin-left: 30px;
+  }
+  .but{
+    background-color: white;
+    color: darkblue;
+    padding: 10px;
+    border-radius: 20px;
+    border: solid white;
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+  .img {
+    background-color: white;
+    border: solid grey 1px;
+    border-radius: 40px;
+    width: 400px;
+    height: 450px;
+    margin-left: 400px;
+    padding: 20px;
+  }
+  .inline {
+    display: inline-flex;
+    background-color: skyblue;
+    width: 1503px;
+  }
+  .img2 {
+    background-color: white;
+    margin-left: 20px;    
+  }
+  .scroll {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .pg {
+    background-color: white;
+    padding: 20px;
+    }
+  .p1 {
+    font-size: xx-large;
+    color: darkblue;
+    text-align: center;
+  }
+  .pro {
+    background-color: white;
+    height:510px;
+    width: 360px;
+    border: solid whitesmoke 3px;
+    border-radius: 20px;
+    margin-left:10px;
+  }
+  #but1 {
+   color: skyblue;
+   border-radius: 10px;
+   margin-left: 150px;
+   padding: 13px;
+  }
+  #but1:hover {
+    background-color: skyblue;
+    color: white;
+  }
+  .pro1 {
+    background-color: white;
+    height:510px;
+    width: 360px;
+    border: solid whitesmoke 3px;
+    border-radius: 20px;
+    margin-left: 10px;
+  }
+  #but2 {
+    color: skyblue;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 10px;
+   }
+   .pro2 {
+    background-color: white;
+    height:510px;
+    width: 360px;
+    border: solid whitesmoke 3px;
+    border-radius: 20px;
+    margin-left: 10px;
+  }
+  #but3 {
+    color: skyblue;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 10px;
+   }
+   .pro3 {
+    background-color: white;
+    height:510px;
+    width: 360px;
+    border: solid whitesmoke 3px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 4px;
+  }
+  #but4 {
+    color: skyblue;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 10px;
+   }
+   .inline1 {
+    background-color: white;
+    display: inline-flex;
+   }
+   .pro4 {
+    background-color: white;
+    height:510px;
+    width: 360px;
+    border: solid whitesmoke 3px;
+    border-radius: 20px;
+    margin-left:10px;
+    margin-top: 10px;
+  }
+  #but5 {
+   color: skyblue;
+   border-radius: 10px;
+   margin-left: 150px;
+   padding: 13px;
+  }
+  .pro5 {
+    background-color: white;
+    height:510px;
+    width: 360px;
+    border: solid whitesmoke 3px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  #but6 {
+    color: skyblue;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 10px;
+   }
+   .pro6 {
+    background-color: white;
+    height:510px;
+    width: 360px;
+    border: solid whitesmoke 3px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  #but7 {
+    color: skyblue;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 10px;
+   }
+   .pro7 {
+    background-color: white;
+    height:510px;
+    width: 360px;
+    border: solid whitesmoke 3px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 4px;
+  }
+  #but8 {
+    color: skyblue;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 10px;
+   }
+   .inline2 {
+    background-color: white;
+    display: inline-flex;
+   }
+   .third {
+    background-color: white;
+    padding: 20px;
+   }
+   #but9 {
+    color: skyblue;
+    border-radius: 20px;
+    margin-left: 730px;
+    padding: 20px;
+    margin-top: 20px;
+   }
+   .fourth {
+    background-color: white;
+    padding: 20px;
+   }
+   #p4 {
+    margin-left: 500px;
+    font-size: x-large;
+   }
+   #p5 {
+    margin-left: 400px;
+    font-size:xx-large;
+   }
+   #img3 {
+    margin-left: 200px;
+   }
+   .fifth {
+    border: solid whitesmoke 3px;
+    border-radius: 200px;
+    background-color: snow;
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 80px;
+   }
+   .sixth {
+    border: solid whitesmoke 3px;
+    border-radius: 200px;
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    margin-left: 45px;
+    margin-top: 50px;
+
+   }
+   #img4 {
+    margin-top: 20px;
+    margin-left: 10px;
+   }
+   .inline3 {
+    display: inline-flex;
+    background-color: white;
+    width: 1503px;
+    height: 450px;
+   }
+   #but10 {
+    color: skyblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: -100px;
+   }
+   #but10:hover {
+    background-color: skyblue;
+    color: white;
+   }
+   .seventh {
+    background-color: skyblue;
+    height: 150px;
+   }
+   .eight{
+    background-color: darkblue;
+    height: 100px;
+   }
